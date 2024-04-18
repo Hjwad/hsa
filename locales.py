@@ -94,10 +94,7 @@ locale_it.group_greeting_message = (
 
 # INFO_MESSAGE
 locale_en.info_message = (
-        'If you still have questions even after reading this article then you can contact support or simply ask '
-        'for help in our public chat at any time you want.\n\n'
-        '👥 Public chat: @BotXChat\n'
-        '⚙ Support: @itsme_him)
+        'If you still have questions even after reading this article then you can contact support or simply ask ' )
 locale_ru.info_message = (
         'Если у вас остались вопросы после прочтения статьи, вы можете в любое время обратиться в '
         'поддержку или попросить о помощи в нашем публичном чате.\n\n'
